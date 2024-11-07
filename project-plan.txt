@@ -1,0 +1,4 @@
+Tonight i created a new folder called D-W-B for Assignment 3. 
+i created 3 htmls called index.httml, new-post.html, and post.html
+made sure the README file was included.
+Uploaded the repo using git bash and git bash commands
